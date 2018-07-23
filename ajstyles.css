@@ -1,0 +1,61 @@
+/* navbar styling */
+ .navbar-brand{
+    font-family: 'Satisfy', cursive;
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding-left: 1.5rem;
+}
+
+.nav-item{
+    margin-left: 1em;
+    font-size:   1.2rem;
+    padding-right: 1.5rem;
+}
+.nav-item active{
+    color: #77F424;
+
+}
+/* body styling */
+body{
+	margin:0 auto ;
+	padding:0;
+	
+	font-family: 'Open Sans', sans-serif;
+ }
+
+/* jumbotron heading */
+
+.jumbotron-styles {
+    background: linear-gradient(to bottom right, orange, pink);
+}
+
+
+/* jumbotron header style */
+.hstyle{
+    font-family: 'Satisfy', cursive;
+    font-size: 3rem;
+}
+
+/* carousel paragraph styling*/
+.carouselp{
+    font-family: 'Satisfy', cursive;
+    font-size: 1.5rem;
+
+}
+
+
+/* card background color */
+.cardstyle{
+    background-color:#77F424;
+}
+
+
+
+/*--footer--*/
+.footer {
+    background: #252525;
+    text-align: center;
+    padding: 0.5em 0;
+    color:whitesmoke;
+  }
+  
